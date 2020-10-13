@@ -6,7 +6,7 @@ const SkuSchema = new mongoose.Schema({
         required: true
     },
     price:{
-        type: NumberInt,
+        type: Number,
         required: true
     },
     brandId:{

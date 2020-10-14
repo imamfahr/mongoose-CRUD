@@ -6,7 +6,7 @@ const BrandSchema = new mongoose.Schema({
         required: true,
     },
     brandId:{
-        type: Integer,
+        type: Number,
         required: true
     }
 })

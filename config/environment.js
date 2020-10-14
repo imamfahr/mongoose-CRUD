@@ -4,6 +4,4 @@ module.exports = {
     PORT: process.env.PORT,
     MONGODB_URI_LIVE: process.env.MONGODB_URI_LIVE,
     MONGODB_URI_LOCAL: process.env.MONGODB_URI_LOCAL,
-
-
-}
+};
